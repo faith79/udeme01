@@ -23,7 +23,8 @@ npm install --save-dev react-hot-loader webpack webpack-dev-server
 ## 실행하기
 
 ```
-npm run dev
+개발 환경 : npm run dev
+배포 빌드 : npm run build
 ```
 
 서버는 포트 8080 으로 실행됩니다. 변경은 webpack.config.js 에서 할 수 있습니다.
