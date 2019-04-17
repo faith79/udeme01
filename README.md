@@ -30,5 +30,5 @@ npm start
 
 ## WEBSITE
 ```
- - https://faith79.github.io/udeme01/public/index.html
+ - https://faith79.github.io/udeme01/public/
 ```
