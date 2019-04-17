@@ -1,4 +1,4 @@
-# CodeLab-React-Fundamentals
+# Study ReAct by LossCut
 
 ## About
 
