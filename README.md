@@ -16,8 +16,13 @@ React CodeLab 에서 작업환경 설정을 할 때 사용 된 코드 입니다.
 npm install -g webpack webpack-dev-server
 npm init
 npm install --save react react-dom
+npm install --save redux
 npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset-react 
 npm install --save-dev react-hot-loader webpack webpack-dev-server
+Global Dependency 설치
+npm install -g babel-cli nodemon cross-env
+Local Dependency 설치
+npm install --save express body-parser
 ```
 
 ## 실행하기
@@ -29,11 +34,6 @@ npm install --save-dev react-hot-loader webpack webpack-dev-server
 
 서버는 포트 8080 으로 실행됩니다. 변경은 webpack.config.js 에서 할 수 있습니다.
 
-## WEBSITE
-```
- - https://faith79.github.io/udeme01/public/
- ```
-
 
  ## Markdown PreView
  ```
@@ -41,4 +41,17 @@ npm install --save-dev react-hot-loader webpack webpack-dev-server
   - markdown All in One, Markdown Preview Enhanced
   - 단축키 : Ctrl + k, v
  ```
+
+## Snippets
+```
+EXTENSIONS 추가
+Reactjs code snippets
+ex) rcc
+```
+
+## WEBSITE
+```
+ - https://faith79.github.io/udeme01/public/
+ ```
+
 
